@@ -112,3 +112,5 @@ The system displays:
 - Embeddings are cached as `.npy` files for faster loading
 - Face alignment is performed before feature extraction
 - Multiple reference images per person are supported
+
+- Recorded latency roughly 41ms avg for face detection and 27ms avg for recognition on CPU performance
